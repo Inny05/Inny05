@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Inny05
-- 👀 I’m super interested in Machine learning and deep learning
+- 👀 I’m super interested in Data Science, Machine learning and deep learning
 - 🌱 I’m currently learning how to build a chatbot
-- 💞️ I’m looking to collaborate on developing an app that would serve as a mobile doctor 😀 
+- 💞️ I'm interested in collaborating on the development of a mobile app that functions as a virtual doctor 😀 
 - 📫 You can reach me on innynwa05@gmail.com 
 
 <!---
